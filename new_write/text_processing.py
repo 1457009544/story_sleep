@@ -7,7 +7,7 @@ import json
 llm = ChatOpenAI(
     temperature=0.95,
     model="glm-4",
-    openai_api_key="a333cb3d1944d5724bb20a4d180d780f.KBZQf8ttUYoyWJZl",
+    openai_api_key="",
     openai_api_base="https://open.bigmodel.cn/api/paas/v4/"
 )
 

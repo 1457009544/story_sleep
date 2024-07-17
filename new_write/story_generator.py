@@ -12,7 +12,7 @@ def llm_initialization():
     llm = ChatOpenAI(
         temperature=0.6,
         model="glm-4-0520",
-        openai_api_key="a333cb3d1944d5724bb20a4d180d780f.KBZQf8ttUYoyWJZl",
+        openai_api_key="",
         openai_api_base="https://open.bigmodel.cn/api/paas/v4/",
         max_tokens=4096
     )
